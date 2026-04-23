@@ -32,7 +32,7 @@ BASIC READINGS
 
 - Open the Arduino IDE (remember to select the correct board at the top left of the Arduino IDE)
   
-- Download [this code] and upload it to your board.
+- Download [this code](https://github.com/kingston-hackSpace/Distance_Sensors/blob/main/pololu_distance_basic.ino) and upload it to your board.
 
 - Open the serial monitor to see your readings.
 
