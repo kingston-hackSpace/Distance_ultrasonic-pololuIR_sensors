@@ -1,5 +1,7 @@
 # Pololu IR Distance Sensor - 300cm MAX
 
+<img src= "pololu_main.jpg" width="400">
+
 ### DESCRIPTION 
 
 This small lidar-based distance sensor reports the distance of objects up to about 300cm away with a pulsed (PWM) signal. A digital microcontroller pin can be used to time the length of each high pulse, which encodes the measured distance. 
