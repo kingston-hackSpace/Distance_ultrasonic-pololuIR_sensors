@@ -4,8 +4,6 @@
 
 This small lidar-based distance sensor reports the distance of objects up to about 300cm away with a pulsed (PWM) signal. A digital microcontroller pin can be used to time the length of each high pulse, which encodes the measured distance. 
 
-Read more about this sensor module [here](https://www.pololu.com/product/4079)
-
 ----
 ### SPECIFICATIONS
 
@@ -24,9 +22,13 @@ Read more about this sensor module [here](https://www.pololu.com/product/4079)
 - Field of view (FOV): 15° typical; can vary with object reflectance and ambient conditions
   
 ----
-## TUTORIAL
+# TUTORIAL
 
-BASIC READINGS
+----
+### WIRING
+
+----
+### CODE and ISNTRUCTIONS
 
 - After you have finished the wiring, plug the Arduino board to your computer
 
@@ -40,8 +42,8 @@ BASIC READINGS
 
 - If you need precision, add calibration using the following code. 
 
-ADD CALIBRATION
 
-- Download and open [this code] - pending.
+----
+## FURTHER INFORMATION
 
-
+Read more about this sensor module [here](https://www.pololu.com/product/4079)
