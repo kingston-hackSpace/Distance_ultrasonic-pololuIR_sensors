@@ -29,20 +29,25 @@ This small lidar-based distance sensor reports the distance of objects up to abo
 ----
 ### WIRING
 
+<img src= "PololuDistance_diagram1.png" width="800">
+<img src= "Pololu_distanceSensor_Pins.png" width="600">
+
+Click on images to expand
+
 ----
 ### CODE and ISNTRUCTIONS
 
 - After you have finished the wiring, plug the Arduino board to your computer
 
 - Open the Arduino IDE (remember to select the correct board at the top left of the Arduino IDE)
-
-- Copy the following code and paste it on your Arduino IDE
   
 - Download [this code](https://github.com/kingston-hackSpace/Distance_Sensors/blob/main/pololu_distance_basic.ino) and upload it to your board.
 
 - Open the serial monitor to see your readings
 
-  
+
+
+- Done!
 
 - With a ruler, check that the incoming values match real distance values. Sensor values may lose accuracy due to environmental factors.
 
