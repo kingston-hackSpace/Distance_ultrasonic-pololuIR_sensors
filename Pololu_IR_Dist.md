@@ -40,18 +40,18 @@ Click on images to expand
 - After you have finished the wiring, plug the Arduino board to your computer
 
 - Open the Arduino IDE (remember to select the correct board at the top left of the Arduino IDE)
+
+  <img src= "SelectBoard.png" width="400">
   
-- Download [this code](https://github.com/kingston-hackSpace/Distance_Sensors/blob/main/pololu_distance_basic.ino) and upload it to your board.
+- Copy [this code](https://github.com/kingston-hackSpace/Distance_Sensors/blob/main/pololu_distance_basic.ino) and upload it to your board.
 
 - Open the serial monitor to see your readings
 
-
+  <img src= "SerialMonitor.png" width="800">
 
 - Done!
 
 - With a ruler, check that the incoming values match real distance values. Sensor values may lose accuracy due to environmental factors.
-
-- If you need precision, add calibration using the following code. 
 
 
 ----
