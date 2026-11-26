@@ -58,9 +58,9 @@ Click on images to expand
 
 1. TURN ON AN LED USING A DISTANCE SENSOR (CREATE A THRESHOLD)
 
-   - Diagram
+   - [Diagram](https://github.com/kingston-hackSpace/Distance_ultrasonic-pololuIR_sensors/blob/main/PololuDistance_diagram2.jpg)
   
-   - Code
+   - [Code](https://github.com/kingston-hackSpace/Distance_ultrasonic-pololuIR_sensors/blob/main/pololu_distance_LED.ino)
 
 3. MAKE A COUNTER USING THE DISTANCE SENSOR
 
