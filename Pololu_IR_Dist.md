@@ -53,7 +53,14 @@ Click on images to expand
 
 - With a ruler, check that the incoming values match real distance values. Sensor values may lose accuracy due to environmental factors.
 
+----
+### MORE EXAMPLES
 
+1. TURN ON AN LED USING A DISTANCE SENSOR (CREATE A THRESHOLD)
+
+2. MAKE A COUNTER USING THE DISTANCE SENSOR
+
+3. CONTROL THE BRIGHTNESS OF AN LED USING A DISTANCE SENSOR
 ----
 ## FURTHER INFORMATION
 
