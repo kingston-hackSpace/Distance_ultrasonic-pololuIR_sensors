@@ -66,11 +66,11 @@ Click on images to expand
 
   - [Diagram](https://github.com/kingston-hackSpace/Distance_ultrasonic-pololuIR_sensors/blob/main/PololuDistance_diagram2.jpg)
 
-  - [Code]
+  - [Code](https://github.com/kingston-hackSpace/Distance_ultrasonic-pololuIR_sensors/blob/main/pololu_distance_counter.ino)
 
-  - Bonus: remember counting when re-powered, [code]
+  - Bonus: remember counting when re-powered, [code](https://github.com/kingston-hackSpace/Distance_ultrasonic-pololuIR_sensors/blob/main/pololu_distance_counterRePowered.ino)
 
-4. CONTROL THE BRIGHTNESS OF AN LED USING A DISTANCE SENSOR
+4. CONTROL THE BRIGHTNESS OF AN LED USING A DISTANCE SENSOR (PENDING)
 ----
 ## FURTHER INFORMATION
 
