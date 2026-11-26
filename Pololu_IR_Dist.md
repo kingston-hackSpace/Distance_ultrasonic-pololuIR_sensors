@@ -62,7 +62,13 @@ Click on images to expand
   
    - [Code](https://github.com/kingston-hackSpace/Distance_ultrasonic-pololuIR_sensors/blob/main/pololu_distance_LED.ino)
 
-3. MAKE A COUNTER USING THE DISTANCE SENSOR
+2. MAKE A COUNTER USING THE DISTANCE SENSOR
+
+  - [Diagram](https://github.com/kingston-hackSpace/Distance_ultrasonic-pololuIR_sensors/blob/main/PololuDistance_diagram2.jpg)
+
+  - [Code]
+
+  - Bonus: remember counting when re-powered, [code]
 
 4. CONTROL THE BRIGHTNESS OF AN LED USING A DISTANCE SENSOR
 ----
